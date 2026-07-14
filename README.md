@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0f2e1a,100:22c55e&height=220&section=header&text=YURII%20PERERVA&fontSize=52&fontColor=00FF7F&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0f2e1a,100:22c55e&height=220&section=header&text=FULL%20STACK%20DEVELOPER&fontSize=44&fontColor=00FF7F&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Building+products+from+scratch+to+production;React+%2F+Next.js+%2F+React+Native;Node.js+%2F+NestJS+%2F+GraphQL;6%2B+years+%C2%B7+8+shipped+products+%C2%B7+Remote" alt="Typing SVG" />
 </a>
+
 
 <br/>
 

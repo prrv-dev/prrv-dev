@@ -128,13 +128,6 @@ Outside of work, I enjoy traveling, hiking, and mountain trekking — situations
 **Senior Full-Stack · Frontend · Mobile Developer**
 Remote · EU / US-based teams
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](#)
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=ffffff)](#)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0f2e1a,100:0D1117&height=120&section=footer" width="100%"/>
 
